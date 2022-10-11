@@ -1,0 +1,8 @@
+************* Module test_candidate_smasher
+test_candidate_smasher.py:1017:0: C0103: Function name "test_generate_candidate_set_IRI_empty" doesn't conform to snake_case naming style (invalid-name)
+test_candidate_smasher.py:1029:0: C0103: Function name "test_generate_candidate_set_IRI_list" doesn't conform to snake_case naming style (invalid-name)
+test_candidate_smasher.py:14:0: W0611: Unused import pytest (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 9.95/10 (previous run: 9.94/10, +0.00)
+

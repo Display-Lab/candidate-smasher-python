@@ -1,0 +1,32 @@
+- [ ] 20220725 add pytest coverage()
+- [x] 20220725 add setter getter for spek\_hsh()
+- [x] 20220725 add setter getter for template\_lib()
+- [x] 20220725 add test for valid()
+- [x] 20220725 add test for checks()
+- [x] 20220725 add test for list\_missing()
+- [x] 20220726 add test for load\_ext\_templates()
+- [x] 20220726 add test for load\_ext\_templates\_rdf()
+- [x] 20220726 add method load\_ext\_templates\_rdf()
+- [x] 20220726 add test to read doap.nt file
+- [x] 20220726 add method self.merge\_external\_templates()
+- [x] 20220726 refactor self.merge\_external\_templates() and correct the error
+- [x] 20220726 add method templates\_rdf\_to\_json()
+- [x] 20220726 add method split\_by\_disposition\_attr()
+- [x] 20220726 add method split\_by\_measure()
+- [x] 20220730 fix bug in method split\_by\_disposition\_attr(), must check that key exists
+- [x] 20220726 add method split\_by\_comparator()
+- [x] 20220726 add method self.regarding\_measure()
+- [x] 20220726 add method self.regarding\_comparator()
+- [x] 20220730 fix bug regarding\_measure(), make static\_method
+- [x] 20220730 fix bug regarding\_comparator(), make static\_method
+- [x] 20220726 add method self.make\_candidate() 20220805
+- [x] 20220726 add method generate\_candidates()
+- [x] 20220726 add method smash!()
+- [ ] 20220730 issue: in Ruby code! method merge\_external\_templates variable t\_ids is not used! possible bug
+- [x] 20220731 fix bug in merge\_external\_templates, need to accommodate optional lists [] as dict values
+- [x] 20220802 for bug in merge\_external\_templates, go back and test cases in Ruby. 2&3 items with/wo arrays, 3&2 items with/wo arrays
+- [x] 20220803 another bug fix in merge\_external\_templates, merging a str and a list
+- [x] 20220803 another bug fix in merge\_external\_templates, merging a list and a str
+- [x] 20220803 another bug fix in merge\_external\_templates, two lists with duplicate elements
+- [x] 20220805 fixes for pylint and mypy issues
+- [ ] 20220807 add more tests for smash!()

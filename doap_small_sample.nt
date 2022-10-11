@@ -1,0 +1,17 @@
+_:g6720 <http://xmlns.com/foaf/0.1/name> "Hellekin O. Wolf" .
+_:g6720 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "c69f3255ff0639543cc5edfd8116eac8df16fab8" .
+_:g6720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:g6680 <http://xmlns.com/foaf/0.1/name> "Fumihiro Kato" .
+_:g6680 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "d31fdd6af7a279a89bf09fdc9f7c44d9d08bb930" .
+_:g6680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://bhuga.net/#ben> <http://xmlns.com/foaf/0.1/homepage> <https://bhuga.net/> .
+<https://bhuga.net/#ben> <http://xmlns.com/foaf/0.1/name> "Ben Lavender" .
+<https://bhuga.net/#ben> <http://xmlns.com/foaf/0.1/mbox> <mailto:blavender@gmail.com> .
+<https://bhuga.net/#ben> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "dbf45f4ffbd27b67aa84f02a6a31c144727d10af" .
+<https://bhuga.net/#ben> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:g6660 <http://xmlns.com/foaf/0.1/name> "Joey Geiger" .
+_:g6660 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "f412d743150d7b27b8468d56e69ca147917ea6fc" .
+_:g6660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:g6740 <http://xmlns.com/foaf/0.1/name> "John Fieber" .
+_:g6740 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "f7653fc1ac0e82ebb32f092389bd5fc728eaae12" .
+_:g6740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .

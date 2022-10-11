@@ -1,0 +1,11 @@
+{
+    "@context":{
+        "@vocab": ""
+    },
+    "@graph":[
+        {
+            "@id": "http://umich.edu",
+            "name": "umich"
+        }
+    ]
+}

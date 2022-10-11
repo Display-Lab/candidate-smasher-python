@@ -1,0 +1,14 @@
+************* Module candidate_smasher
+candidate_smasher.py:204:21: W0511: TODO could add some log message for a KeyError (fixme)
+candidate_smasher.py:431:9: W0511: TODO (fixme)
+candidate_smasher.py:458:9: W0511: TODO need a recursive flatten function to flatten multiple (i.e. all) levels (fixme)
+candidate_smasher.py:44:4: R0201: Method could be a function (no-self-use)
+candidate_smasher.py:93:4: R0201: Method could be a function (no-self-use)
+candidate_smasher.py:160:8: C0103: Argument name "t" doesn't conform to snake_case naming style (invalid-name)
+candidate_smasher.py:152:8: W0612: Unused variable 'ids_are_same' (unused-variable)
+candidate_smasher.py:260:4: R0201: Method could be a function (no-self-use)
+candidate_smasher.py:450:8: C0103: Argument name "p" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.64/10 (previous run: 9.48/10, +0.16)
+
