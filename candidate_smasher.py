@@ -354,7 +354,7 @@ class CandidateSmasher():
         """ make candidate
         """
         t_id = None
-        p_id = None
+        p_id = "_:p1"
         if "@id" in template:
             t_id = template["@id"]
         if "@id" in performer:
@@ -415,7 +415,7 @@ class CandidateSmasher():
         # tmp1 = f'{t_id or ""}{p_id or ""}{m_id or ""}{c_id or ""}'
         # tmp2 = tmp1.encode('utf-8')
         candidate["@id"] = CandidateSmasher.ID_PREFIX + hashlib.md5(f'{t_id or ""}{p_id or ""}{m_id or ""}{c_id or ""}'.encode('utf-8')).hexdigest()
-        candidate[CandidateSmasher.ANCESTOR_PERFORMER_IRI] = p_id
+        candidate[CandidateSmasher.ANCESTOR_PERFORMER_IRI] = "_:p1"
         candidate[CandidateSmasher.ANCESTOR_TEMPLATE_IRI] = t_id
 
         return candidate
